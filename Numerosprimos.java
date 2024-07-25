@@ -1,7 +1,5 @@
 package Aulas;
 
-//import java.lang.reflect.Method;
-
 import java.util.Scanner;
 
 public class Numerosprimos {
